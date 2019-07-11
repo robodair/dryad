@@ -1,2 +1,9 @@
+# Visual Studio Code
 .vscode/
+
+# Database Files
 db.*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
